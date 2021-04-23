@@ -1,0 +1,4 @@
+TCS3200.c:17:6:HAL_TIM_IC_CaptureCallback	16	static
+TCS3200.c:39:10:tcs3200_getPulseFreq	16	static
+TCS3200.c:48:6:tcs3200_freq	16	static
+TCS3200.c:70:6:tcs3200_switchColor	16	static
